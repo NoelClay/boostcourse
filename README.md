@@ -1,1 +1,1 @@
-<a href="https://noelclay.github.io/boostcourse/" target="_blank">https://noelclay.github.io/boostcourse/</a>
+<a href="https://noelclay.github.io/boostcourse/" target="_blank">주소</a>
